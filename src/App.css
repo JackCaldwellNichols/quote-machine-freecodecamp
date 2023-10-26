@@ -1,0 +1,56 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+
+#quote-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 30px;
+  width: 50vw;
+  gap: 50px;
+
+}
+
+.top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+#text {
+
+
+}
+
+#author{
+
+}
+
+.bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+
+
+#tweet-quote {
+  
+}
+
+#new-quote{
+  background-color: black;
+  color: white;
+}
